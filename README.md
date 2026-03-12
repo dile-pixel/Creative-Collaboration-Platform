@@ -19,5 +19,5 @@ npm run dev
 Open the app in your browser at:
 
 ```bash
-http://localhost:3000
+http://localhost:3000 
 ```
